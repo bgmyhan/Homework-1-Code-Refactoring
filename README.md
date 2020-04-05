@@ -1,2 +1,7 @@
 # Homework-1-Code-Refactoring
-This one's for your Peter!
+Created by: Brandon Myhan
+            UCLA Bootcamp T-Th-S
+Grader:     Peter!
+Grade:      
+
+
