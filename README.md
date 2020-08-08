@@ -4,7 +4,7 @@
 This project is simple html and css document reconstructed for a homework assignment. Students were meant to refactor the original code to current standar practices.
 	
 ## Setup
-Open this file in your "default browswer"
+https://bgmyhan.github.io/Homework-1-Code-Refactoring/
 
 
 Created by: Brandon Myhan
