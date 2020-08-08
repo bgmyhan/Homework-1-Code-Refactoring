@@ -1,7 +1,7 @@
 # Homework-1-Code-Refactoring
 
 ## General info
-This project is simple html and css reconstructed for a homework assignment.
+This project is simple html and css document reconstructed for a homework assignment. Students were meant to refactor the original code to current standar practices.
 	
 ## Setup
 Open this file in your "default browswer"
