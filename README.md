@@ -12,6 +12,6 @@ https://bgmyhan.github.io/Homework-1-Code-Refactoring/
 Created by: Brandon Myhan
             UCLA Bootcamp T-Th-S
 
+*** Preview of working refactored website ***
 
-<<<<<<< HEAD
 ![Screen Shot of Webpage](/Images/screenShot.png)
