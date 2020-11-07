@@ -10,10 +10,9 @@ As our first Homework assignment this task was utilized to understand HTML and C
 https://bgmyhan.github.io/Homework-1-Code-Refactoring/
 
 
-=======
 
-Created by: Brandon Myhan
-            UCLA Bootcamp T-Th-S
+#### Created by: Brandon Myhan 
+UCLA Bootcamp T-Th-S
 
 ***Preview of working refactored website***
 
